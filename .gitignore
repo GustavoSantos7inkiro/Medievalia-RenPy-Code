@@ -1,0 +1,48 @@
+# Arquivos compilados do Ren'Py
+*.rpyc
+*.rpymc
+*.rpyb
+*.rpa
+
+# Cache e salvamentos
+cache/
+saves/
+game/cache/
+game/saves/
+tmp/
+
+# Logs e erros
+log.txt
+errors.txt
+traceback.txt
+lint.txt
+
+# Builds e pacotes
+*-dists/
+build/
+dist/
+*.zip
+
+# Imagens e artes
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.psd
+*.kra
+*.aseprite
+
+# Áudios
+*.ogg
+*.mp3
+*.wav
+*.flac
+
+# Vídeos
+*.mp4
+*.webm
+
+# Fontes
+*.ttf
+*.otf
