@@ -27,8 +27,7 @@ Fui o roteirista e programador do projeto, responsável pela criação da histó
 ## Tecnologias
 
 - Ren'Py
-- Linguagem Ren'Py
-- Python
+- Ren'Py Script, com integração a Python
 - Git
 - GitHub
 
