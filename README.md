@@ -38,3 +38,8 @@ da Costa.
 
 Não é concedida permissão para reutilização, modificação ou redistribuição
 sem autorização.
+
+
+## Jogue o projeto
+
+[🎮 Jogar Medievalia no itch.io](https://gustavosantosinkiro.itch.io/medievalia)
